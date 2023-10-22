@@ -1,4 +1,5 @@
 fun main() {
+    // range of 1 to 100
     val numbers = 1..100
     println(numbers.count())
     println(numbers.contains(50))
